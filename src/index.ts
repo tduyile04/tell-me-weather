@@ -41,4 +41,4 @@ const displayWeatherResults = () => {
 
 // ---- Print the result to stdout ----
 
-console.log(displayWeatherResults())
+displayWeatherResults();
